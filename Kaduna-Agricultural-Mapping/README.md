@@ -2,40 +2,57 @@
 
 ## Project Overview
 
-This project was completed during my internship at Geodetricks in 2022 as a practical GIS assignment.
+This project involved the digitization of an existing agricultural production map of Kaduna State, Nigeria.
 
-The objective was to create a digital map showing the spatial distribution of agricultural products across Kaduna State. The project involved converting information from an existing map into a digital GIS dataset through manual digitization.
+The original map was studied and converted into a digital GIS map showing the spatial distribution of agricultural areas and administrative boundaries across Kaduna State.
 
-## Methodology
+## Project Output
 
-The project involved the following major steps:
+### Original Source Map
 
-1. Obtaining the source map of Kaduna State showing the distribution of agricultural products.
-2. Georeferencing the map to establish its spatial reference.
-3. Manually digitizing the agricultural information from the georeferenced map.
-4. Creating and organizing spatial features in a GIS environment.
-5. Applying appropriate symbology to represent the different agricultural products.
-6. Producing the final map for visualization and presentation.
+The original agricultural production map used as the source for the digitization process.
 
-## Tools & Skills
+![Original Agricultural Map](./kaduna%20AGRIC.jpg)
 
-- GIS
-- ArcGIS
-- Georeferencing
-- Manual digitization
+### Digitized Map
+
+The resulting digital map produced from the digitization process.
+
+![Digitized Agricultural Map](./AGRIC%20MAP.jpg)
+
+### Before and After
+
+The comparison below shows the original analogue map and the resulting digitized map.
+
+**Before:** Original agricultural production map  
+**After:** Digitized GIS map
+
+## Project Process
+
+The project involved:
+
+1. Obtaining and studying the original agricultural production map.
+2. Georeferencing and interpreting the source map.
+3. Digitizing the administrative boundaries and spatial features.
+4. Assigning attributes to the digitized features.
+5. Producing the final digital map.
+
+## Skills Demonstrated
+
+- GIS and cartographic interpretation
+- Map digitization
 - Spatial data creation
-- Cartographic visualization
-- Map production
+- Attribute data management
+- Cartographic design
+- Geospatial visualization
 
-## What I Learned
+## Project Significance
 
-This project strengthened my understanding of how geographic information can be converted from analogue or image-based sources into usable digital spatial data.
+This project demonstrates my practical experience in transforming an existing analogue map into a digital geospatial dataset and producing a map suitable for spatial analysis and visualization.
 
-It also helped me develop practical skills in georeferencing, digitization, spatial data organization, and cartographic presentation.
+## Author
 
-## Project Context
+**Basiru Nuhu**
 
-**Year:** 2022  
-**Project Type:** Internship GIS Assignment  
-**Organization:** Geodetricks  
-**Focus:** Agricultural Mapping and Spatial Data Visualization
+First-Class Geography Graduate  
+GIS | Remote Sensing | Geospatial Analysis
