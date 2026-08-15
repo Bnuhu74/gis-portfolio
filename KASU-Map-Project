@@ -1,1 +1,51 @@
+# Kaduna State University (KASU) Mapping Project
 
+## Project Overview
+
+This academic GIS project involved creating a detailed map of Kaduna State University from scratch.
+
+The project was one of my practical GIS assignments and involved working with satellite imagery, GPS coordinates, manual digitization, and field verification to represent features within the university campus.
+
+## Input
+
+The project started with an image of the Kaduna State University campus obtained from Google Earth.
+
+![KASU Input Image](./KASU%20INPUT.jpg)
+
+## Mapping Process
+
+The mapping process involved:
+
+1. Obtaining the study area image from Google Earth.
+2. Collecting 4–6 GPS coordinates from different locations within the study area using a mobile GPS waypoint application.
+3. Using the collected coordinates to support the spatial referencing of the study area.
+4. Manually digitizing features within the university campus, including buildings, footpaths, roads, parcels of land, and trees.
+5. Revisiting the site for ground-truthing and verification of mapped features.
+6. Producing the final digital map.
+
+## Output
+
+The final output was a digitized map of Kaduna State University showing the spatial features identified within the study area.
+
+![KASU Digitized Map](./KASU%20OUTPUT.jpg)
+
+## Skills Demonstrated
+
+- GIS mapping
+- Manual digitization
+- GPS coordinate collection
+- Spatial referencing
+- Ground-truthing
+- Cartographic design
+- Geospatial data management
+
+## Project Significance
+
+This project strengthened my practical understanding of how GIS can be used to transform a real-world study area into a digital spatial representation through data collection, digitization, and field verification.
+
+## Author
+
+**Basiru Nuhu**
+
+First-Class Geography Graduate  
+GIS | Remote Sensing | Geospatial Analysis
